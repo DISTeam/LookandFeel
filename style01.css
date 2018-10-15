@@ -1,0 +1,40 @@
+.wrapper{
+	width:900px;
+	background:black;
+	margin: 0 auto 0 auto;
+}
+
+.heading{
+	height:100px;
+	background:red;
+	padding: 20px:
+	text-allign: center;
+}
+
+.navigation{
+	height:50px;
+	background:lightblue;
+}
+
+.content{
+		min-height:600px;
+		background:black;
+		width:900px;
+		float:left;
+		color:white;
+}
+
+.sidebar{
+	width:300px;
+	float:right;
+	bakground:red;
+	min-height: 600px;
+}
+
+.footer{
+	clear:both;
+	background:black;
+	height:40px;
+	color:white;
+	text-allign: center;
+	padding:10px;
